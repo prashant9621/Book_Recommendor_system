@@ -1,10 +1,19 @@
 
 
 📚 Book Recommender System
+
+
+
 Overview
+
+
+
 This project implements a book recommender system that leverages data from Books.csv, Users.csv, and ratings.csv. The system suggests books to users based on their preferences and ratings.
 
 Dependencies
+
+
+
 Python 3.x
 pandas
 numpy
@@ -12,6 +21,9 @@ Setup
 Clone the repository:
 
 bash
+
+
+
 Copy code
 git clone https://github.com/your-username/book-recommender.git
 cd book-recommender
