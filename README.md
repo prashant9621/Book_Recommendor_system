@@ -1,5 +1,6 @@
-Book Recommender System
 
+
+📚 Book Recommender System
 Overview
 This project implements a book recommender system that leverages data from Books.csv, Users.csv, and ratings.csv. The system suggests books to users based on their preferences and ratings.
 
